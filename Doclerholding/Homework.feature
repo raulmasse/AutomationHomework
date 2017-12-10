@@ -1,8 +1,5 @@
 ﻿Feature: Homework
 	The following requirements are given for http://uitest.duodecadits.com website.
-	In order to avoid silly mistakes
-	As a math idiot
-	I want to be told the sum of two numbers
 
 Scenario: 01_Home Page
 REQ-UI-01, RE1-UI-02, REQ-UI-03, REQ-UI-04, REQ-UI-09, REQ-UI-10
